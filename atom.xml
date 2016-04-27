@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>求知书屋</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-04-27T10:11:03.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>miqi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于Delphi</title>
+    <link href="http://yoursite.com/2016/04/27/%E5%85%B3%E4%BA%8EDelphi/"/>
+    <id>http://yoursite.com/2016/04/27/关于Delphi/</id>
+    <published>2016-04-26T23:36:41.000Z</published>
+    <updated>2016-04-27T10:11:03.000Z</updated>
+    
+    <content type="html">&lt;p&gt;以前是用Delphi开发,虽然做的不怎么样，但是也是花了点心思的。&lt;/p&gt;
+&lt;p&gt;之前做的时候，总感觉Delphi好的资料太少了，可能还是我不够深入吧。&lt;/p&gt;
+&lt;p&gt;后来学了Java，觉的Delphi好像很缺少框架这类的东西。虽然Delphi是所谓的RAD，但是要想减少偶合，我觉的还是免不了分层。&lt;/p&gt;
+&lt;p&gt;所以我想尝试用Java的方式写Delphi程序。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;以前是用Delphi开发,虽然做的不怎么样，但是也是花了点心思的。&lt;/p&gt;
+&lt;p&gt;之前做的时候，总感觉Delphi好的资料太少了，可能还是我不够深入吧。&lt;/p&gt;
+&lt;p&gt;后来学了Java，觉的Delphi好像很缺少框架这类的东西。虽然Delphi是所谓的RAD，但是要想减少偶
+    
+    </summary>
+    
+      <category term="Delphi" scheme="http://yoursite.com/categories/Delphi/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>不知道写什么</title>
+    <link href="http://yoursite.com/2016/04/26/%E4%B8%8D%E7%9F%A5%E9%81%93%E5%86%99%E4%BB%80%E4%B9%88/"/>
+    <id>http://yoursite.com/2016/04/26/不知道写什么/</id>
+    <published>2016-04-26T10:08:15.000Z</published>
+    <updated>2016-04-26T10:18:02.000Z</updated>
+    
+    <content type="html">&lt;p&gt;写博客真是一个伤脑筋的事，不知道要写什么。该抽点时间整理一篇学习笔记出来。&lt;/p&gt;
+&lt;h2 id=&quot;嗯，加油！&quot;&gt;&lt;a href=&quot;#嗯，加油！&quot; class=&quot;headerlink&quot; title=&quot;嗯，加油！&quot;&gt;&lt;/a&gt;嗯，加油！&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;写博客真是一个伤脑筋的事，不知道要写什么。该抽点时间整理一篇学习笔记出来。&lt;/p&gt;
+&lt;h2 id=&quot;嗯，加油！&quot;&gt;&lt;a href=&quot;#嗯，加油！&quot; class=&quot;headerlink&quot; title=&quot;嗯，加油！&quot;&gt;&lt;/a&gt;嗯，加油！&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>又是早起的一天</title>
+    <link href="http://yoursite.com/2016/04/25/%E5%8F%88%E6%98%AF%E6%97%A9%E8%B5%B7%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+    <id>http://yoursite.com/2016/04/25/又是早起的一天/</id>
+    <published>2016-04-24T23:29:19.000Z</published>
+    <updated>2016-04-24T23:51:13.000Z</updated>
+    
+    <content type="html">&lt;p&gt;早上6点40起床，虽然不算太早，但也算是早起了。&lt;/p&gt;
+&lt;p&gt;早起写了个博客，感觉不错。希望能够保持。&lt;/p&gt;
+&lt;h2 id=&quot;加油！&quot;&gt;&lt;a href=&quot;#加油！&quot; class=&quot;headerlink&quot; title=&quot;加油！&quot;&gt;&lt;/a&gt;加油！&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;早上6点40起床，虽然不算太早，但也算是早起了。&lt;/p&gt;
+&lt;p&gt;早起写了个博客，感觉不错。希望能够保持。&lt;/p&gt;
+&lt;h2 id=&quot;加油！&quot;&gt;&lt;a href=&quot;#加油！&quot; class=&quot;headerlink&quot; title=&quot;加油！&quot;&gt;&lt;/a&gt;加油！&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今天开始写博客</title>
+    <link href="http://yoursite.com/2016/04/24/%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/04/24/今天开始写博客/</id>
+    <published>2016-04-24T10:36:02.000Z</published>
+    <updated>2016-04-24T11:06:16.000Z</updated>
+    
+    <content type="html">&lt;p&gt;我要开始学着写博客，提升自己的职业素养。  &lt;/p&gt;
+&lt;h2 id=&quot;加油，奋斗&quot;&gt;&lt;a href=&quot;#加油，奋斗&quot; class=&quot;headerlink&quot; title=&quot;加油，奋斗&quot;&gt;&lt;/a&gt;加油，奋斗&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我要开始学着写博客，提升自己的职业素养。  &lt;/p&gt;
+&lt;h2 id=&quot;加油，奋斗&quot;&gt;&lt;a href=&quot;#加油，奋斗&quot; class=&quot;headerlink&quot; title=&quot;加油，奋斗&quot;&gt;&lt;/a&gt;加油，奋斗&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/04/24/hello-world/"/>
+    <id>http://yoursite.com/2016/04/24/hello-world/</id>
+    <published>2016-04-24T04:16:34.000Z</published>
+    <updated>2016-04-24T04:16:34.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
